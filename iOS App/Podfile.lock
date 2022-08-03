@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.6.1)
+  - CocoaAsyncSocket (7.6.5)
+  - CocoaMQTT (2.0.2):
+    - CocoaMQTT/Core (= 2.0.2)
+  - CocoaMQTT/Core (2.0.2):
+    - CocoaAsyncSocket (~> 7.6.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - CocoaMQTT
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaAsyncSocket
+    - CocoaMQTT
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  CocoaMQTT: 2cab338fe04820d1e32aa20809e4d141a4118f0a
+
+PODFILE CHECKSUM: 0cfb746e2241704bb07462214ea7ae34d8272870
+
+COCOAPODS: 1.11.3

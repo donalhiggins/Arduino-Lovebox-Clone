@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'messageBox' do
+	pod 'CocoaMQTT'
+  	pod 'Alamofire'
+end
