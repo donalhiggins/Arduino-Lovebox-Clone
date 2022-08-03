@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4043E53328257E1600F46823 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4043E53228257E1600F46823 /* ImagePicker.swift */; };
+		4091231F289AE0EC00935FE8 /* imageFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4091231E289AE0EC00935FE8 /* imageFunctions.swift */; };
 		40C08DF827767025001E93DE /* messageBoxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C08DF727767025001E93DE /* messageBoxApp.swift */; };
 		40C08DFA27767025001E93DE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C08DF927767025001E93DE /* ContentView.swift */; };
 		40C08DFC27767026001E93DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40C08DFB27767026001E93DE /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 		1C68534994172AA381E1B653 /* Pods-messageBox.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-messageBox.release.xcconfig"; path = "Target Support Files/Pods-messageBox/Pods-messageBox.release.xcconfig"; sourceTree = "<group>"; };
 		2F9D006B6A45273F889C09B2 /* Pods_messageBox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_messageBox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4043E53228257E1600F46823 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		4091231E289AE0EC00935FE8 /* imageFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageFunctions.swift; sourceTree = "<group>"; };
 		40C08DF427767025001E93DE /* messageBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = messageBox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40C08DF727767025001E93DE /* messageBoxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = messageBoxApp.swift; sourceTree = "<group>"; };
 		40C08DF927767025001E93DE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				40C08DF727767025001E93DE /* messageBoxApp.swift */,
 				40C08DF927767025001E93DE /* ContentView.swift */,
 				4043E53228257E1600F46823 /* ImagePicker.swift */,
+				4091231E289AE0EC00935FE8 /* imageFunctions.swift */,
 				40C08DFB27767026001E93DE /* Assets.xcassets */,
 				40C08DFD27767026001E93DE /* Preview Content */,
 			);
@@ -306,6 +309,7 @@
 				40C08DFA27767025001E93DE /* ContentView.swift in Sources */,
 				4043E53328257E1600F46823 /* ImagePicker.swift in Sources */,
 				40C08DF827767025001E93DE /* messageBoxApp.swift in Sources */,
+				4091231F289AE0EC00935FE8 /* imageFunctions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
